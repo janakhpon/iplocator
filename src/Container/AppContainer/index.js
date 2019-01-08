@@ -5,7 +5,7 @@ import DisplayMap from '../../Components/Displaymap';
 import './index.css';
 
 const apiUrl = "http://api.ipstack.com/";
-const apiKey = "";
+const apiKey = "6bec72027b1965bcb7b7078ceb53db2a";
 
 class Appcontainer extends Component {
 
