@@ -1,0 +1,9 @@
+.mapMarker {
+    display: inline-block;
+    padding: 10px 10px;
+    color: #FFF;
+    text-align: center;
+    background: var(--accentColor);
+    border-radius: 100%;
+  }
+  
